@@ -21,7 +21,7 @@
  
                          // ADD THE X
                          // Create a Div to hold the x
-                         var xdiv = $("<img class='ml-2 xarbutton' src=../assets/images/x.png>")
+                         var xdiv = $("<img class='ml-2 xarbutton' src=../assets/Images/x.png>")
                          // append xdiv to html
                          $(this).append(xdiv)
  
@@ -78,7 +78,7 @@
  
                          // ADD THE X
                          // Create a Div to hold the x
-                         var xdiv = $("<img class='ml-2 xctbutton' src=../assets/images/x.png>")
+                         var xdiv = $("<img class='ml-2 xctbutton' src=../assets/Images/x.png>")
                          // append xdiv to html
                          $(this).append(xdiv)
  
